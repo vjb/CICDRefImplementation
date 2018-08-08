@@ -1,0 +1,6 @@
+[MENDIXAPI]
+username=username
+password=password
+
+[CONFIG]
+timeout=20
