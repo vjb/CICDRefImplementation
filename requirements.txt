@@ -8,7 +8,7 @@ idna==2.7
 lxml==4.2.3
 mock==2.0.0
 more-itertools==4.2.0
-numpy==1.14.5
+numpy==1.22.0
 parse==1.8.4
 pbr==4.1.1
 pluggy==0.6.0
